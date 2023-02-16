@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyen Huu Nang (Nathan)
-- 👀 Most of my interest is relate to web developement and data science
+- 👀 Most of my interest is relate to web developement, game and graphics programming.
 - 🌱 I’m currently learning computer science at TDT University
 - 💞️ This profile is mainly for my university's projects
 - 📫 How to reach me:
